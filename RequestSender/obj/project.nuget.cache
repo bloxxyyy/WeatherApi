@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvVibDGXtksr9P1ULk8a8TuO6YiMzA04plwdg/DK9DY4yOlXzeFqaK29oB8G0cWB143j5gIgabgQrKMj11htTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mnnop\\source\\repos\\RequestSender\\RequestSender\\RequestSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mnnop\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

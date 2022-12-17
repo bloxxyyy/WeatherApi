@@ -1,0 +1,17 @@
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\bin\Debug\net6.0\RequestSender.exe
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\bin\Debug\net6.0\RequestSender.deps.json
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\bin\Debug\net6.0\RequestSender.runtimeconfig.json
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\bin\Debug\net6.0\RequestSender.dll
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\bin\Debug\net6.0\RequestSender.pdb
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\obj\Debug\net6.0\RequestSender.csproj.AssemblyReference.cache
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\obj\Debug\net6.0\RequestSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\obj\Debug\net6.0\RequestSender.AssemblyInfoInputs.cache
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\obj\Debug\net6.0\RequestSender.AssemblyInfo.cs
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\obj\Debug\net6.0\RequestSender.csproj.CoreCompileInputs.cache
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\obj\Debug\net6.0\RequestSender.csproj.CopyComplete
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\obj\Debug\net6.0\RequestSender.dll
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\obj\Debug\net6.0\refint\RequestSender.dll
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\obj\Debug\net6.0\RequestSender.pdb
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\obj\Debug\net6.0\RequestSender.genruntimeconfig.cache
+C:\Users\mnnop\source\repos\RequestSender\RequestSender\obj\Debug\net6.0\ref\RequestSender.dll
