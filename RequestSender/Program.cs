@@ -66,7 +66,7 @@ public class RequestSender<T> {
 
 class Program {
 	static async Task Main(string[] args) {
-		RequestSender<Root> weatherRequest = new("https://api.openweathermap.org/data/2.5/weather?lat=51.9851&lon=5.8987&units=metric&appid=457461628ef3df667285d649653abd8e");
+		RequestSender<Root> weatherRequest = new("https://api.openweathermap.org/data/2.5/weather?lat=51.9851&lon=5.8987&units=metric&appid={yourApiKeyHere}");
 		Root testResponseData = await weatherRequest.GetAsync();
 		Console.WriteLine("temp: " + testResponseData.main.temp);
 		Console.WriteLine("max temp: " + testResponseData.main.temp_max);
